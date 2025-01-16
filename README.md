@@ -4,7 +4,10 @@ Crear una conexión al formulario y crear una cookie que contenga un contador qu
 </h4>
 ## :hammer:Funcionalidades del proyecto
 
-- `Funcionalidad 1`: Formularios con validación de los datos y conexión a la base de datos espectaculos 1- `Funcionalidad 2`: Cookie que recoge las veces que se envia una contraseña 2- `Funcionalidad 2a`: Procesos de registro  3- `Funcionalidad 3`: Inteconexión de los dos formularios tanto de registro como de inicio de sesión
+- `Funcionalidad 1`: Formularios con validación de los datos y conexión a la base de datos espectaculos.
+- 1- `Funcionalidad 2`: Cookie que recoge las veces que se envia una contraseña.
+- 2- `Funcionalidad 2a`: Procesos de registro.
+- 3- `Funcionalidad 3`: Inteconexión de los dos formularios tanto de registro como de inicio de sesión
 
 
 - \## 📁 Acceso al proyecto
